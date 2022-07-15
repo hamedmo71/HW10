@@ -1,0 +1,5 @@
+Room, 100
+Pool, 20
+Restaurant, 10
+ConferenceHall, 500
+cafe, 15
